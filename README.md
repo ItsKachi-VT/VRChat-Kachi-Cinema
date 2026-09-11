@@ -1,15 +1,13 @@
-# Kachicinema
+# Kachi-Cinema
 
 [![Open Source](https://img.shields.io/badge/open%20source-yes-2ea44f.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-web%20server-000000.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare-Tunnel-F38020.svg?logo=cloudflare&logoColor=white)](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/)
 
-> Servidor local pequeño para publicar un vídeo mediante una URL temporal o un dominio propio de Cloudflare Tunnel.
+## Qué es?
 
-## Qué hace
-
-Kachicinema convierte tu PC en un host para tu contenido multimedia. Así puedes reproducir tus vídeos desde cualquier reproductor de VRChat que acepte una URL de vídeo.
+Kachi-Cinema convierte tu PC en un host pequeño para tu contenido multimedia. Así puedes reproducir tus vídeos desde cualquier reproductor de VRChat que acepte una URL de vídeo.
 
 Esta versión preliminar funciona desde la línea de comandos y todavía no incluye una interfaz gráfica.
 
